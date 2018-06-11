@@ -7,7 +7,6 @@
 
 body {
     background-image: url("https://i.imgur.com/Rn4grct.jpg");
-    background-repeat: round;
     font-size: 1.3em;;
     font-family: "Roboto Slab", serif;
 }
@@ -32,8 +31,10 @@ div {
 
 pre {
     background-color: #f5f5f7;
+    background-color: rgba(255, 255, 255, 0.7);
     font-family: "Roboto Slab", serif;
-    font-size: 0.867em;
+    font-size: 0.767em;
+    text-align: center;
     padding: 50px;
 }
 
