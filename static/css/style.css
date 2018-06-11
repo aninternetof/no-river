@@ -30,6 +30,7 @@ div {
 }
 
 pre {
+    padding-top: 3em;
     background-color: #f5f5f7;
     background-color: rgba(255, 255, 255, 0.7);
     font-family: "Roboto Slab", serif;
