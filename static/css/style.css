@@ -1,0 +1,46 @@
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 30px 30px 30px;
+}
+
+body {
+    background-image: url("https://i.imgur.com/Rn4grct.jpg");
+    background-repeat: round;
+    font-size: 1.3em;;
+    font-family: "Roboto Slab", serif;
+}
+
+a {
+    color: #60606f;
+}
+
+h1 {
+    font-size: 4.388em;
+    font-family: "Raleway", sans-serif;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-family: "Raleway", sans-serif;
+}
+
+div {
+    margin-bottom: 3.375em;
+}
+
+pre {
+    background-color: #f5f5f7;
+    font-family: "Roboto Slab", serif;
+    font-size: 0.867em;
+    padding: 50px;
+}
+
+.audio-container {
+    margin-left: auto;
+}
+
+audio {
+    width: 400px;
+}
